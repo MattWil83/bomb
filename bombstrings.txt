@@ -1,0 +1,154 @@
+/lib/ld-linux.so.2
+libc.so.6
+_IO_stdin_used
+exit
+fopen
+__isoc99_sscanf
+puts
+stdin
+popen
+printf
+fgets
+memset
+malloc
+pclose
+__cxa_finalize
+strcmp
+__libc_start_main
+free
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+GLIBC_2.7
+GLIBC_2.1.3
+GLIBC_2.1
+GLIBC_2.0
+WVQRP
+[^_]
+WVRP
+[^_]
+Y[^]
+UWVS
+t$,U
+[^_]
+!!!BOOM!!! You're toast.
+Unexpected error. Code: 1001. Contact TAs/Professor.
+%d %d %d %d %d %d
+%d %d %d %d %d %d %d %d
+%d %d
+You go back.
+whoami
+Unexpected error. Code: 1002. Contact TAs/Professor.
+Phase 0 solved. Safe.. FOR NOW!!!
+Phase 1 solved. Hmmm...
+Phase 2 solved. Warming up!
+Phase 3 solved. Don't celebrate yet. Three are 3 more to go.
+Phase 4 solved. Try this one...
+Phase 5 solved. Final phase coming up...
+All phases complete. Congrats! Bomb diffused... 
+Usage: %s OR %s <file>
+;*2$"
+GCC: (Debian 6.3.0-18) 6.3.0 20170516
+crtstuff.c
+__JCR_LIST__
+deregister_tm_clones
+__do_global_dtors_aux
+completed.6578
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+bomb.c
+initializer_helper_1
+/tmp/ccbekRGi.o
+p3c1
+p3c2
+loop_start
+loop_done
+p3c3
+__FRAME_END__
+__JCR_END__
+__init_array_end
+_DYNAMIC
+__init_array_start
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+__libc_csu_fini
+strcmp@@GLIBC_2.0
+_ITM_deregisterTMCloneTable
+__x86.get_pc_thunk.bx
+printf@@GLIBC_2.0
+free@@GLIBC_2.0
+fgets@@GLIBC_2.0
+phase2
+_edata
+phase4
+phase6
+phase0
+phase5_helper
+phase6_decoder
+popen@@GLIBC_2.1
+__x86.get_pc_thunk.dx
+__cxa_finalize@@GLIBC_2.1.3
+explode
+read_8_numbers
+initialize
+malloc@@GLIBC_2.0
+__data_start
+puts@@GLIBC_2.0
+__gmon_start__
+exit@@GLIBC_2.0
+__dso_handle
+pclose@@GLIBC_2.1
+_IO_stdin_used
+__libc_start_main@@GLIBC_2.0
+__libc_csu_init
+stdin@@GLIBC_2.0
+nonce
+__isoc99_sscanf@@GLIBC_2.7
+fopen@@GLIBC_2.1
+memset@@GLIBC_2.0
+_fp_hw
+read_single_string
+phase4_helper
+phase1
+__bss_start
+phase3
+phase5
+main
+__x86.get_pc_thunk.ax
+read_6_numbers
+read_number
+_Jv_RegisterClasses
+__TMC_END__
+_ITM_registerTMCloneTable
+phase3_helper
+read_2_numbers
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.comment
